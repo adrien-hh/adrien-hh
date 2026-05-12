@@ -4,9 +4,9 @@
 <p align="center">
   <a href="mailto:adrien.huhn@gmail.com"><img src="https://img.shields.io/badge/%40-adrien.huhn@gmail.com-24292e?style=flat-square&" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/adrien-hh/adrien-hh/raw/main/CV_AdrienHUHN_Alternance_Developpeur.pdf" target="blank"><img src="https://img.shields.io/badge/Download-my_resume-a20422?style=flat-square&logo=googledocs&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/adrien-hh/adrien-hh/raw/main/CV_AdrienHUHN_Alternance_Developpeur.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-my_resume-a20422?style=flat-square&logo=googledocs&logoColor=white" alt="Resume" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/adrien-huhn" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/adrien-huhn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### About me
