@@ -1,5 +1,5 @@
 <h1 align="center">Adrien Huhn</h1>
-<h3 align="center">Fullstack Developer in the making</h3>
+<h3 align="center">Software Engineer | Fullstack Developer</h3>
 
 <p align="center">
   <a href="mailto:adrien.huhn@gmail.com"><img src="https://img.shields.io/badge/%40-adrien.huhn@gmail.com-24292e?style=flat-square&" alt="Email" /></a>
@@ -10,8 +10,8 @@
 </p>
 
 ### About me
-- 🎓 Moving towards a **Master's degree** in Software Architecture & Development.
-- 💼 Seeking a **2-year Apprenticeship** starting in **September 2026**.
+- 🎓 **Master's degree** candidate in Software Architecture & Development.
+- 💼 Open to **Full-time positions** or a **2-year Apprenticeship** starting in **September 2026**.
 - 🛠️ Designing robust Backend systems & secure software architectures.
 - 🚀 Scaling towards Cloud-Native & DevSecOps (IaC, CI/CD, Observability).
 
